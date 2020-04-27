@@ -1,0 +1,208 @@
+Nous recommandons que vous permettiez une surveillance constante de votre location.
+
+Soyons prudent
+
+Identifiant Facebook 
+Enregistrement Facebook
+
+Nous exigeons que nos nouveaux utilisateurs examinent nos conditions générales
+Ils peuvent être accédés plus tard dans l’onglet paramètre.
+
+Conditions générales
+J’accepte ! 
+
+Appuyer sur L’onglet statut pour voir votre historique.
+Il liste et partage vos entrées de symptômes ainsi que votre liste de contacts anonyme avec d’autres utilisateurs.  
+Glisser vers la gauche pour continuer. (« Swipe left »)
+
+Commencer
+Partager
+
+Aucune exposition connue
+Exposition possible
+Histoire
+Carte
+Journal
+Proximité 
+Eternuement
+Provision
+Examinassions
+Information
+Paramètre
+
+Partager
+Le plus de gens vous ajoutez sur l’application, plus vous serez en sécurité.
+Après tout, partager est un signe d’amour et de confiance
+Amis Facebook
+Contactes Facebook
+Réseaux sociaux
+www.americanaeuropa.com
+Appuyer sur ‘Télécharger’ 
+
+Veuillez sélectionner vos symptômes.
+N’oubliez pas de le faire tous les jours car le formulaire se réinitialise quotidiennement.
+Eternuement
+Perte de gout et odorat
+Fièvre
+Essoufflement
+Douleur de poitrine 
+Problèmes gastro-intestinaux
+Confusion ou non-excitation
+Lèvres bleuté ou visage
+Résultat teste positif 
+
+Proximité en direct
+Cette fonctionnalité est payante.
+La fonction proximité en directe utilise notre base de donné ainsi que le statut de nos utilisateurs en temps réel pour accéder tout changements de statut ainsi que leurs proximité. 
+Pour protéger leurs identités, leur location précise sera brouillée.
+Il est sage de pratiquer la distanciation sociale à tout moment, peux importes vos symptômes. 
+
+Transit
+Choisissez le siège de voiture
+Commencement du temps
+Fin du temps
+Plaque d’immatriculation du covoiturage
+Metro
+Bus/Numéro de vol
+
+Analyse d’éternuements.
+La fonction analyse d’éternuements est en cours de recueillement d’échantillons. 
+Eventuellement, avec assez de données, nous serons capables de détecter des modèles et partager nos aperçus. 
+Une fois que se sera finit, nous aimerions partager ce que nous trouvons ainsi que nos analyse d’éternuements. 
+Appuyer et resté appuyer sur l’icône microphone pour enregistrer. L’échantillon vocal s’enverra automatiquement. 
+
+Paramètres
+Notifications
+Compte
+Location
+Conditions générales
+Aide
+
+Notifications
+Exposition
+Nous vous notifierons si nous détectons une possible exposition.
+Rappel
+Vers midi tous les jours, nous vous rappellerons de remplir le formulaire de symptômes.
+Affirmations positive.
+Recevez des mots d’espoir.
+
+Location
+Pour changer vos paramètres de location, allez sur :
+iOS
+Page d’accueil
+Paramètres
+Application Coronavirus
+Location Android
+Applications
+Paramètres
+Location 
+
+
+ENGLISH:
+
+Text Needing to be Translated
+
+We recommend that you allow constant location monitoring.
+
+Let’s be safe
+
+Facebook Log-in
+Facebook Sign-up
+
+We require that first-time users review our
+Terms & Conditions.
+It can also be accessed later
+in the Settings tab.
+
+Terms & Conditions
+Agree!
+
+Press on the Status Bar
+to see your History.
+It lists your Symptoms log
+entries and list of
+anonymous contact
+with other users.
+Swipe Left to Proceed.
+
+Start!
+Share
+
+No Known Exposure
+Possible Exposure
+History
+Map
+Log
+Proximity
+Transit
+Cough
+Supplies
+Testing
+Info
+Settings
+
+Share
+The more people you add to use the app, the safer you and they are.
+After all, sharing is caring.
+Facebook Friends
+Phone Contacts
+Social Media
+www.americanaeuropa.com
+Press ‘Download’
+
+Please select your symptoms. Be sure to do it everyday. The form is automatically reset.
+Cough
+Loss of Taste & Smell
+Fever
+Shortness of Breath
+Chest Pain
+Gastrointestinal Issues
+Confusion or No Arousal
+Bluish Lips or Face
+Positive Test Result
+
+Live Proximity
+The Live Proximity function uses our user database and their status to show real-time detection to ensure proximity.
+To protect their identities, their precise location is scrambled.
+It’s wise to practice distancing at all times, regardless of symptoms.
+
+Transit
+Select Car Seat
+Time Start
+Time End
+Rideshare License Plate
+Subway Ride
+Bus/Flight Number
+
+Cough Analysis
+The Cough Analysis function is currently collecting samples.
+Eventually, with enough useful data, we may be able to detect patterns and yield insights.
+Once that’s done, we hope to share what we find and give analysis on coughs.
+Press and hold the Mic icon to record. The sample sends on its own.
+
+Settings
+Notifications
+Account
+Location
+Terms & Conditions
+Help
+
+Notifications
+Exposure
+We’ll notify you if we detect a possible exposure.
+Reminders
+Around noon everyday, we’ll remind you to fill-out the daily symptoms log.
+Positive Affirmations
+Get words of hope.
+
+Location
+To change your location settings, go to the following:
+iOS
+> Home Screen
+> Settings
+> Coronavirus App
+> Location
+Android
+> Apps
+> Settings
+> Location

@@ -1,0 +1,122 @@
+We recommend that you allow constant location monitoring.
+Мы рекомендуем разрешить постоянное отслеживание локации 
+
+Let’s be safe
+Давайте будем здоровы 
+
+Facebook Log-in Войти в Facebook
+Facebook Sign-up Зарегистрироваться в Facebook
+
+We require that first-time users review our  Terms & Conditions. 
+It can also be accessed later in the Settings tab.
+Тем, кто пользуется приложением впервые, мы рекомендуем ознакомиться с нашими Условиями Пользования.  
+
+Terms & Conditions Условия Пользования
+Agree! Я согласен
+
+Press on the Status Bar to see your History. Нажмите на вкладку Статус чтобы увидеть Историю
+It lists your Symptoms log  entries and list of  anonymous contact  with other users. 
+Там находится журнал Ваших симптомов и список Ваших анонимных контактов с другими пользователями 
+
+Swipe Left to Proceed. Проведите пальцем влево чтобы продолжить 
+
+Start! Начать 
+Share Поделиться
+
+No Known Exposure Нет известного воздействия 
+
+Possible Exposure Возможное воздействие 
+
+History История
+
+Map Карта
+
+Log Журнал
+
+Proximity Близость
+
+Transit Транзит
+
+Cough Кашель 
+
+Supplies Снабжение
+
+Testing Тестирование
+
+Info Информация
+
+Settings Настройки
+
+Share Поделиться
+
+The more people you add to use the app, the safer you and they are. Чем больше людей добавят это приложение, тем безопаснее будут Вы и они
+After all, sharing is caring. В конце концов, поделиться - значит позаботиться 
+
+Facebook Friends Друзья в Facebook
+Phone Contacts Телефонные контакты
+Social Media Социальные сети
+www.americanaeuropa.com
+Press ‘Download’
+Нажмите “Скачать”
+
+Please select your symptoms. Be sure to do it everyday. The form is automatically reset. Пожалуйста выберите Ваши симптомы 
+Cough Кашель
+Loss of Taste & Smell Потеря вкуса и запаха 
+Fever Жар
+Shortness of Breath Затруднение дыхания 
+Chest Pain Боль в груди
+Gastrointestinal Issues Желудочно-кишечные проблемы
+Confusion or No Arousal Смятение и апатия 
+Bluish Lips or Face Посинение губ или лицв
+Positive Test Result Положительный результат теста 
+
+Live Proximity Живая близость
+The Live Proximity function uses our user database and their status to show real-time detection to ensure proximity. 
+Функция Живая Близость использует нашу пользовательскую базу данных и их статус, чтобы в режиме реального времени обнаруживать близость.
+To protect their identities, their precise location is scrambled.  Чтобы защитить их личности, их точное местоположение не отображено.
+It’s wise to practice distancing at all times, regardless of symptoms. Стоит практиковать дистанцию всегда, независимо от симптомов.
+Purchase the subscription by accessing the Subscriptions Page. Купите подписку, зайдя на Страницу Подписок.
+
+Transit Перемещение
+Select Car Seat Выберите место в машине
+Time Start Старт времени 
+
+Time End Время завершено 
+Rideshare License Plate Номерной знак 
+Subway Ride Поездка на метро 
+Bus/Flight Number Номер автобуса/авиа рейса 
+
+Cough Analysis Анализ кашля 
+The Cough Analysis function is currently collecting samples. Функция анализа кашля собирает образцы 
+Eventually, with enough useful data, we may be able to detect patterns and yield insights.  В конце, имея достаточно полезных данных, мы сможем обнаружить закономерности и получить общее представление.
+Once that’s done, we hope to share what we find and give analysis on coughs.  После этого, мы надеемся поделиться тем, что мы нашли и предоставить анализ кашля.
+Press and hold the Mic icon to record. The sample sends on its own. Нажмите и удерживайте значок Микрофона для записи. Образец будет отправлен самостоятельно.
+
+Settings Настройки
+Notifications Уведомления
+Account Аккаунт
+Location Местонахождение 
+Terms & Conditions Условия Пользования
+Help Помощь
+
+Notifications Уведомления 
+Exposure Воздействие
+We’ll notify you if we detect a possible exposure. Мы уведомим Вас если мы обнаружим возможное воздействие 
+Reminders Напоминания 
+Around noon everyday, we’ll remind you to fill-out the daily symptoms log. Ежедневно около полудня мы будем напоминать вам заполнять ежедневный журнал симптомов.
+Positive Affirmations Положительные аффирмации 
+Get words of hope. Получить слова поддержки 
+
+Location Местонахождение
+To change your location settings, go to the following: Чтобы изменить настройки Вашего местонахождения, перейдите сюда: 
+iOS iOS
+Home Screen Домашний экран 
+Settings Настройки 
+Coronavirus App Приложение Коронавирус
+Location Местонахождение
+
+Android Android
+
+Apps Приложения 
+Settings Настройки 
+Location Местонахождение
