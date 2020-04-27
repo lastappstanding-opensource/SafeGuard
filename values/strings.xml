@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">SafeGuard+</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="facebook_app_id">3106658156044848</string>
+    <string name="fb_login_protocol_scheme">fb3106658156044848</string>
+    <string name="title_activity_tracker">Tracker</string>
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="loading">  LOADING  </string>
+    <string name="before_sunset_string"> We recommend that you allow constant location monitoring. </string>
+
+    <string name="baseline">Log-in</string>
+    <string name="info_login">
+        In Anonymous-mode, we\'ll both lose your data when you log-out.\
+        You don\'t have to provide your name.\
+        We won\'t link your data to your personal information beyond the app\'s use.</string>
+
+    <string name="fb_sign_in">Facebook Log-in</string>
+    <string name="anonymous_sign_in">Anonymous Log-in</string>
+
+    <string name="setup_terms">We require that first-time users review our Terms &amp; Conditions. It can later be accessed in Settings.</string>
+
+    <string name="categories_string">TERMS &amp; CONDITIONS</string>
+
+    <string name="terms"><b>PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY BEFORE USING THIS MOBILE APPLICATION.</b> \
+        \
+By using this mobile application, you signify your assent to these Terms and Conditions. If you do not agree to all of these Terms and Conditions, do not use this mobile application! \
+AmericanaEuropa, Inc. ("AmericanaEuropa") may revise and update these Terms and Conditions at any time. Your continued usage of the SafeGuard+ mobile application (the “App" or "SafeGuard+”) will mean you accept those changes. \
+        \
+<b>The App Does Not Provide Medical Advice</b> \
+The contents of the App, such as text, graphics, images, and other materials created by AmericanaEuropa or obtained from AmericanaEuropa\'s licensors, and other materials contained on the AmericanaEuropa App (collectively, "Content") are for informational purposes only. The Content is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read or have been notified of on the AmericanaEuropa App! \
+\
+If you think you may have a medical emergency, call your doctor or 911 immediately. AmericanaEuropa does not recommend or endorse any specific tests, physicians, products, procedures, opinions, or other information that may be mentioned on the App. Reliance on any information provided by AmericanaEuropa, AmericanaEuropa employees, others appearing on the App at the invitation of AmericanaEuropa, or other visitors to the App is solely at your own risk. \
+\
+<b>Children\'s Privacy</b> \
+We are committed to protecting the privacy of children. You should be aware that this App is not intended or designed to attract children under the age of 13. We do not collect personally identifiable information from any user, besides what is volunteered to us by location tracking and symptoms logging. \
+\
+<b>Use of the App</b> \
+If you violate any of these Terms and Conditions, your permission to use the App automatically terminates and you must immediately destroy any copies you have made of any portion of the Content. \
+\
+<b>Liability of AmericanaEuropa and Its Licensors</b> \
+The use of the AmericanaEuropa App is at your own risk. AmericanaEuropa assumes no liability for or relating to the delay, failure, interruption, or corruption of any data or other information transmitted in connection with use of the AmericanaEuropa App. \
+\
+The AmericanaEuropa App and the Content are provided on an "as is" basis. AMERICANAEUROPA, ITS LICENSORS, AND ITS SUPPLIERS, TO THE FULLEST EXTENT PERMITTED BY LAW, DISCLAIM ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT OF THIRD PARTIES\' RIGHTS, AND FITNESS FOR PARTICULAR PURPOSE. Without limiting the foregoing, AmericanaEuropa, its licensors, and its suppliers make no representations or warranties about the following: \
+The accuracy, reliability, completeness, currentness, or timeliness of the Content, software, links, or communications provided on or through the use of the AmericanaEuropa App. \
+The satisfaction of any government regulations requiring disclosure of information on prescription drug products or the approval or compliance of any software tools with regard to the Content contained on the AmericanaEuropa App. \
+\
+In no event shall AmericanaEuropa, its partners, or its affiliates, be liable for any damages (including, without limitation, incidental and consequential damages, personal injury/wrongful death, lost profits, or damages resulting from lost data or business interruption) resulting from the use of or inability to use the AmericanaEuropa App or the Content, whether based on warranty, contract, tort, or any other legal theory, and whether or not AmericanaEuropa, its licensors, its suppliers, or any third parties mentioned on the AmericanaEuropa App are advised of the possibility of such damages. AmericanaEuropa, its licensors, its suppliers, or any third parties mentioned on the AmericanaEuropa App shall be liable only to the extent of actual damages incurred by you, not to exceed U.S. $1000. AmericanaEuropa, its partners, or its licensors, are not liable for any personal injury, including death, caused by your use or misuse of the App and its Content. Any claims arising in connection with your use of the App or of any Content must be brought within one (1) year of the date of the event giving rise to such action occurred. Remedies under these Terms and Conditions are exclusive and are limited to those expressly provided for in these Terms and Conditions. \
+\
+<b>Passwords</b> \
+AmericanaEuropa uses Facebook log-in and Anonymous log-in features for users to interface with the App. Users’ volunteered information is stored with Google Cloud Platform. You are responsible for taking all reasonable steps to ensure that no unauthorized person shall have access to your passwords or accounts associated with AmericanaEuropa. It is your sole responsibility to: (1) control the dissemination and use of sign-in name, screen name and passwords; (2) authorize, monitor, and control access to and use of your AmericanaEuropa account and password; (3) promptly inform AmericanaEuropa if you believe your account or password has been compromised or if there is any other reason you need to deactivate a password. You grant AmericanaEuropa and all other persons or entities involved in the operation of the App the right to transmit, monitor, retrieve, store, and use your information in connection with the operation of the App. AmericanaEuropa cannot and does not assume any responsibility or liability for any information you submit, or your or third parties\' use or misuse of information transmitted or received using AmericanaEuropa tools and services. \
+\
+AmericanaEuropa or its licensors have no liability or responsibility to users of the AmericanaEuropa App or any other person or entity for performance or nonperformance of the aforementioned activities. \
+\
+<b>Indemnity</b> \
+You agree to defend, indemnify, and hold AmericanaEuropa, its officers, directors, employees, agents, licensors, and suppliers, harmless from and against any claims, actions or demands, liabilities and settlements including without limitation, reasonable legal and accounting fees, resulting from, or alleged to result from: (a) your use of the App, (b) your volunteered information, (c) your use of or reliance on any Content, or (d) your violation of these Terms and Conditions. \
+\
+<b>General</b> \
+AmericanaEuropa is based in Tampa, Florida, in the United States of America with its only principal office in Tampa, Florida. Access to the Content may not be legal by certain persons or in certain countries. If you access the AmericanaEuropa Network from outside the United States, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction. \
+\
+<b>Jurisdiction</b> \
+You expressly agree that exclusive jurisdiction for any dispute with AmericanaEuropa, or in any way relating to your use of the AmericanaEuropa App, resides in the courts of the State of Florida and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of the State of Florida in connection with any such dispute including any claim involving AmericanaEuropa or its affiliates, partners, subsidiaries, employees, contractors, officers, directors, telecommunication providers, and content providers. \
+\
+These Terms and Conditions are governed by the internal substantive laws of the State of Florida, without respect to its conflict of laws principles. If any provision of these Terms and Conditions is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms and Conditions, which shall remain in full force and effect. No waiver of any of these Terms and Conditions shall be deemed a further or continuing waiver of such term or condition or any other term or condition. \
+\
+<b>Services and Device Information</b> \
+When you access and use the Services, the App automatically collects and stores in its server logs information from your browser or mobile device such as your IP address or unique device identifier, your preferences and settings, and information about the content you have viewed and actions taken (e.g., ad engagement, usage, geographic and transportation locations and the associated dates and times). AmericanaEuropa may also collect device-specific information when you install and use an App including your device model, operating system information, advertising ID (which is a unique, user-resettable identification number for advertising associated with a mobile device) and App version and usage information. When enabled by you, we collect precise location information provided by your mobile device, which you may disable through the device settings. \
+\
+In addition to using the information it collects performing services for AmericanaEuropa, Google may also use such information as described in its privacy policy. To see how Google may use information collected through our use of the Google services on the AmericanaEuropa App, visit https://www.google.com/policies/privacy/partners. While Facebook does not provide any sensitive information to AmericanaEuropa, Facebook may use information that it has about you and that it collects performing services for AmericanaEuropa (which may be associated with personal information that Facebook has about you) as described in its privacy policy available at https://www.facebook.com/about/privacy. \
+\
+<b>Arbitration</b>  \
+By agreeing to the Terms and Conditions, you agree that you are required to resolve any claim that you may have against AmericanaEuropa on an individual basis in arbitration, as set forth in this Arbitration Agreement. This will preclude you from bringing any class, collective, or representative action against AmericanaEuropa, and also preclude you from participating in or recovering relief under any current or future class, collective, consolidated, or representative action brought against AmericanaEuropa by someone else. \
+\
+<i>Agreement to Binding Arbitration Between You and AmericanaEuropa</i>  \
+You and AmericanaEuropa agree that any dispute, claim or controversy arising out of or relating to (a) these Terms and Conditions or the existence, breach, termination, enforcement, interpretation or validity thereof, or (b) your access to or use of the App at any time, whether before or after the date you agreed to the Terms and Conditions, will be settled by binding arbitration between you and AmericanaEuropa, and not in a court of law. \
+\
+You acknowledge and agree that you and AmericanaEuropa are each waiving the right to a trial by jury or to participate as a plaintiff or class member in any purported class action or representative proceeding. Unless both you and AmericanaEuropa otherwise agree in writing, any arbitration will be conducted only on an individual basis and not in a class, collective, consolidated, or representative proceeding. However, you and AmericanaEuropa each retain the right to bring an individual action in small claims court and the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation or violation of a party\'s copyrights, trademarks, trade secrets, patents or other intellectual property rights. \
+\
+<i>Arbitration Rules and Governing Law</i> \
+The arbitration will be administered by the American Arbitration Association ("AAA") in accordance with the AAA\’s Consumer Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes (the "AAA Rules") then in effect, except as modified by this Arbitration Agreement. The AAA Rules are available at www.adr.org or by calling the AAA at 1-800-778-7879. \
+\
+The parties agree that the arbitrator ("Arbitrator"), and not any federal, state, or local court or agency, shall have exclusive authority to resolve any disputes relating to the interpretation, applicability, enforceability or formation of this Arbitration Agreement, including any claim that all or any part of this Arbitration Agreement is void or voidable. The Arbitrator shall also be responsible for determining all threshold arbitrability issues, including issues relating to whether the Terms and Conditions are unconscionable or illusory and any defense to arbitration, including waiver, delay, laches, or estoppel. \
+\
+Notwithstanding any choice of law or other provision in the Terms and Conditions, the parties agree and acknowledge that this Arbitration Agreement evidences a transaction involving interstate commerce and that the Federal Arbitration Act, 9 U.S.C. § 1 et seq. ("FAA"), will govern its interpretation and enforcement and proceedings pursuant thereto. It is the intent of the parties that the FAA and AAA Rules shall preempt all state laws to the fullest extent permitted by law. If the FAA and AAA Rules are found to not apply to any issue that arises under this Arbitration Agreement or the enforcement thereof, then that issue shall be resolved under the laws of the state of Florida. \
+\
+<i>Arbitration Process</i> \
+A party who desires to initiate arbitration must provide the other party with a written Demand for Arbitration as specified in the AAA Rules. (The AAA provides a form Demand for Arbitration - Consumer Arbitration Rules at www.adr.org or by calling the AAA at 1-800-778-7879). The Arbitrator will be either (1) a retired judge or (2) an attorney specifically licensed to practice law in the state of California and will be selected by the parties from the AAA\'s roster of consumer dispute arbitrators. If the parties are unable to agree upon an Arbitrator within seven (7) days of delivery of the Demand for Arbitration, then the AAA will appoint the Arbitrator in accordance with the AAA Rules. \
+\
+<i>Arbitration Location and Procedure</i> \
+Unless you and AmericanaEuropa otherwise agree, the arbitration will be conducted in the county where you reside. If your claim does not exceed $10,000, then the arbitration will be conducted solely on the basis of documents you and AmericanaEuropa submit to the Arbitrator, unless you request a hearing or the Arbitrator determines that a hearing is necessary. If your claim exceeds $10,000, your right to a hearing will be determined by the AAA Rules. Subject to the AAA Rules, the Arbitrator will have the discretion to direct a reasonable exchange of information by the parties, consistent with the expedited nature of the arbitration. \
+\
+<i>Arbitrator\'s Decision</i> \
+The Arbitrator will render an award within the time frame specified in the AAA Rules. Judgment on the arbitration award may be entered in any court having competent jurisdiction to do so. The Arbitrator may award declaratory or injunctive relief only in favor of the claimant and only to the extent necessary to provide relief warranted by the claimant\'s individual claim. An Arbitrator’s decision shall be final and binding on all parties. An Arbitrator’s decision and judgment thereon shall have no precedential or collateral estoppel effect. If you prevail in arbitration you will be entitled to an award of attorneys\' fees and expenses, to the extent provided under applicable law. AmericanaEuropa will not seek, and hereby waives all rights AmericanaEuropa may have under applicable law to recover attorneys\' fees and expenses if AmericanaEuropa prevails in arbitration. \
+\
+<i>Arbitration Fees</i> \
+Your responsibility to pay any AAA filing, administrative and arbitrator fees will be solely as set forth in the AAA Rules. However, if your claim for damages does not exceed $75,000, AmericanaEuropa will pay all such fees, unless the Arbitrator finds that either the substance of your claim or the relief sought in your Demand for Arbitration was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b). \
+\
+<i>Arbitration Changes</i> \
+Notwithstanding the provisions in Section I above, regarding consent to be bound by amendments to these Terms and Conditions, if AmericanaEuropa changes this Terms and Conditions after the date you first agreed to the Terms and Conditions (or to any subsequent changes to the Terms), you may reject any such change by providing AmericanaEuropa written notice of such rejection within 30 days of the date such change became effective, as indicated in the "Effective" date above. This written notice must be provided by mail to our main location of business for process, listed in the succeeding section. In order to be effective, the notice must include your full name and clearly indicate your intent to reject changes to this Terms and Conditions. By rejecting changes, you are agreeing that you will arbitrate any dispute between you and AmericanaEuropa in accordance with the provisions of this Terms and Conditions as of the date you first agreed to the Terms and Conditions (or to any subsequent changes to the Terms and Conditions). \
+\
+<b>Copyright-Infringement Notice and Takedown Procedures</b> \
+If you believe any materials accessible on or from the App infringe your copyright, you may request removal of those materials (or access thereto) from this web app by mailing AmericanaEuropa (identified below) and providing the following information: \
+Identification of the copyrighted work that you believe to be infringed. Please describe the work, and where possible include a copy or the location (e.g., screenshot) of an authorized version of the work. \
+Identification of the material that you believe to be infringing and its location. Please describe the material and provide us pertinent information that will allow us to locate the material. \
+Your name, address, telephone number and (if available) e-mail address. \
+A statement that you have a good faith belief that the complained of use of the materials is not authorized by the copyright owner, its agent, or the law. \
+A statement that the information that you have supplied is accurate, and indicating that "under penalty of perjury," you are the copyright owner or are authorized to act on the copyright owner\'s behalf. \
+A signature or the electronic equivalent from the copyright holder or authorized representative. \
+\
+AmericanaEuropa method of contact for copyright issues relating to this web app is as follows: \
+AmericanaEuropa, Inc 3006 Tega Cay Court Apt 3 Tampa, FL 33578 United States \
+\
+In an effort to protect the rights of copyright owners, AmericanaEuropa maintains a policy for the termination, in appropriate circumstances, of subscribers and account holders of the App who are repeat infringers. \
+\
+<b>Severability and Survival</b> \
+If any portion of this Terms and Conditions is found to be unenforceable or unlawful for any reason, (1) the unenforceable or unlawful provision shall be severed from these Terms and Conditions; (2) severance of the unenforceable or unlawful provision shall have no impact whatsoever on the remainder of the Terms and Conditions or the parties’ ability to compel arbitration of any remaining claims on an individual basis pursuant to the Terms and Conditions; and (3) to the extent that any claims must therefore proceed on a class, collective, consolidated, or representative basis, such claims must be litigated in a civil court of competent jurisdiction and not in arbitration, and the parties agree that litigation of those claims shall be stayed pending the outcome of any individual claims in arbitration. \
+\
+<b>Complete Agreement</b> \
+Except as expressly provided in a particular \"legal notice\" on the AmericanaEuropa App, these Terms and Conditions constitute the entire agreement between you and AmericanaEuropa with respect to the use of the AmericanaEuropa App and of its Content. \
+\
+Thank you for your cooperation. We hope you find the AmericanaEuropa App helpful and convenient to use!</string>
+
+    <string name="requestLocation">To know if you get in contact with infected users, please enable anonymous location tracking. \ You can later disable tracking in \'Settings\' and delete all data.</string>
+
+    <string name="setup_complete">Welcome aboard!</string>
+
+    <string name="title_log">Please select your symptoms. Be sure to do it everyday. The form is automatically submitted to our servers and reset. Scroll for more. </string>
+
+    <string name="help"><b>LOCATION</b> \
+Here\'s how to modify location sharing. \
+                   \
+    <i>Android</i> \
+    1. Apps \
+    2. Settings \
+    3. Location \
+                \
+    <i>iOS</i> \
+    1. Home Screen \
+    2. Settings \
+    3. SafeGuard+ \
+    4. Location \
+    \
+    <b>STATUS BAR</b> \
+    The dynamic status bar shows possible exposure status. \
+    There are three possible statuses: \
+    1. NO KNOWN EXPOSURE \
+    2. EXPOSURE TO UNDIAGNOSED USERS WITH SYMPTOMS \
+    3. EXPOSURE TO DIAGNOSED USERS \
+    \
+    <b>MAP</b> \
+    The Map displays John Hopkin\'s data. \
+    The databases are updated regularly, but they are not live. \
+    It is built on Google Maps. \
+    \
+    <b>LOG</b> \
+    The Log asks for symptoms and testing status. \
+    \
+    <b>INFO</b> \
+    Displays infection data by country and locale. \
+    The data is shown as raw numbers and pie charts. \
+    \
+    <b>SETTINGS</b> \
+    A. <i>Accounts</i> \
+    Access Timeline, Profile, Log-out, and Subscriptions. \
+    B. <i>Terms and Conditions</i> \
+    See a scrollable document of the Terms and Conditions. \
+    C. <i>Help</i> \
+    Get details on the app. You\'re currently here!</string>
+
+</resources>
+
