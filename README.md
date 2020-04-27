@@ -1,3 +1,3 @@
 # SafeGuard
 Open-Source COVID-19 GPS Tracker, Symptoms Logger, Transit Input, Cough Analysis, Supplies &amp; Testing + Waiting Time.
-Go to the AmericanaEuropa-SafeGuardAPK branch for the installable app package.
+Go to the AmericanaEuropa-SafeGuardAPK branch for the installable Android app package.
